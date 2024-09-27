@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.awt.*;
 
-public class US_305 extends BaseDriver {
+public class US_305_OdemeIslemiOnayVeIndirme extends BaseDriver {
 
     @Test
     public void Us_304() throws AWTException {

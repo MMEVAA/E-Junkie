@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-public class US_302 extends BaseDriver {
+public class US_302_HatalıOdemeIslemi extends BaseDriver {
 
     @Test
     public void Test1()

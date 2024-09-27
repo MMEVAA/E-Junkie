@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-public class Us_307 extends BaseDriver {
+public class Us_307_AnasayfayaErisim extends BaseDriver {
     @Test
     public void Test1(){
         driver.get("https://shopdemo.fatfreeshop.com/?");
